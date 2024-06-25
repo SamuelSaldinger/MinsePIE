@@ -24,7 +24,7 @@ setuptools.setup(
         'regex>=2021.8',
         'scikit-learn>=0.24',
         'biopython>=1.79',
-        'xgboost==1.5.0',
+        'xgboost==2.1.0',
         'scipy>=1.5',
         'datetime',
         'pandarallel==1.5.4',
